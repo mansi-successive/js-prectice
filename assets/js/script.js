@@ -131,3 +131,29 @@
 //     city: ‘Mumbai’
 // }
 // var occupation = Symbol(‘engineer’);
+   //some imp question
+// console.log(10 + "20");
+// console.log(10 - "4");
+// console.log(10 - "20");
+// console.log("j" +    "s");
+// console.log("" + "");
+// console.log("" + 0);
+// console.log("Hello" - "world");
+// console.log(5 - "world");
+// console.log(true + true);
+// console.log(true + false);
+// console.log(false + true);
+// console.log(false - true);
+// console.log(false - false);
+// console.log(false + false);
+// console.log(undefined - "undefined");
+// console.log(undefined - undefined);
+// console.log(undefined - 5);
+// console.log(undefined - "5");
+// console.log(undefined - 9);
+// console.log(null - 9);
+// console.log(0 - 9);
+// console.log(null - null);
+// console.log(null + null);
+// console.log(null - "9");
+// console.log(undefined + 5);
